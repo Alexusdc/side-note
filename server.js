@@ -1,4 +1,5 @@
 const express = require('express');
+const PORT = process.env.PORT || 3001;
 const app = express();
 const path = require('path');
 const fs = require('fs');
@@ -38,6 +39,7 @@ app.post('/api/notes', (req, res) => {
     fs.writeFileSync('./db/db.json', JSON.stringify(db, null, 4));
 });
 
-app.listen(3001, () => {
-    console.log('API server now on port 3001!');
+// Setting the PORT 
+app.listen(PORT, () => {
+    console.log('API server now on port ${PORT}!');
 });
