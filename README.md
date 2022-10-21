@@ -19,6 +19,8 @@ Step 2: Click "Get Started"
 
 Step 3: Click the space that says "Note Title" and "Note Text" to write the note you wish to have saved 
 
+Step 4: View created notes on the left hand side
+
 ## Built with 
 *HTMl
 *JS
