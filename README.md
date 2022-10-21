@@ -1,6 +1,6 @@
 # Note Taker Starter Code
 
-# Side-note // 
+# Side-note // Note Taker 
 
 ## Description 
 This functional website allows users to create notes and keep them in an organized list 
@@ -13,19 +13,19 @@ In order to use Note Taker , please refer to the following images and steps
 ![Screen Shot 2022-10-20 at 8 30 39 PM](https://user-images.githubusercontent.com/106570615/197105582-82ec7eb4-3cbf-4b42-b001-51ca39cf9fe0.png)
 ![Screen Shot 2022-10-20 at 8 33 11 PM](https://user-images.githubusercontent.com/106570615/197105587-9a0d33f1-421e-467c-ae4c-65bc694a3266.png)
 
-Step 1: https://alexusdc.github.io/Optimal-portfolio/
+Step 1: https://fathomless-brook-85396.herokuapp.com/
 
-Step 2: Use the three topic buttons at the top of the page to direct you to the key points of the website - scrolling the page is more than acceptable
+Step 2: Click "Get Started"
 
-Step 3: Read the key topics in the content of the page 
+Step 3: Click the space that says "Note Title" and "Note Text" to write the note you wish to have saved 
 
 ## Built with 
 *HTMl
-*CSS
+*JS
+*JSON
 
 ## Website 
-https://alexusdc.github.io/Optimal-portfolio/
-
+https://fathomless-brook-85396.herokuapp.com/
 ## Contribution 
 Alexus Christensen 
 Github username: Alexusdc
